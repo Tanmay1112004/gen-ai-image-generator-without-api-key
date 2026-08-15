@@ -118,7 +118,7 @@ Adjust:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/clip-vqgan-text2image.git
+git clone https://github.com//clip-vqgan-text2image.git
 cd clip-vqgan-text2image
 ```
 
